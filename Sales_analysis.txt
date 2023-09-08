@@ -1,0 +1,31 @@
+Total Revenue: The sum of all revenue generated from sales.
+
+Total Cost: The sum of all costs incurred to produce the sold items.
+
+Total Profit: The difference between total revenue and total cost.
+
+Average Selling Price: Total Revenue divided by the total number of units sold.
+
+Average Unit Cost: Total Cost divided by the total number of units sold.
+
+Gross Profit Margin: (Total Profit / Total Revenue) * 100. This indicates the profitability of sales after accounting for the cost of goods sold.
+
+Sales Quantity: The total number of units sold.
+
+Average Order Value: Total Revenue divided by the total number of orders.
+
+Order Fulfillment Time: The average time taken to fulfill an order (Ship Date - Order Date).
+
+Sales by Region: Total revenue or units sold categorized by different regions.
+
+Sales by Country: Total revenue or units sold categorized by different countries.
+
+Sales by Item Type: Total revenue or units sold categorized by different item types.
+
+Sales by Sales Channel: Total revenue or units sold categorized by different sales channels.
+
+Sales by Order Priority: Total revenue or units sold categorized by different order priorities.
+
+Top Selling Items: The items with the highest number of units sold or total revenue.
+
+Profitability by Region/Country: Total profit calculated per region or country, providing insights into the most profitable regions/countries.
